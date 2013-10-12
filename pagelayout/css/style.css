@@ -1,0 +1,41 @@
+body {
+	background: url('../images/pattern1.png');
+}
+
+header, footer {
+	background-color: red;
+	color: white;
+	padding: 15px;
+}
+
+article {
+	background-color: white;
+	padding: 20px;
+}
+
+div#container {
+	width: 80%;
+	margin: 10px auto;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 24px;
+	font-family: sans-serif;
+	font-weight: bold;	
+}
+
+blockquote {
+	width: 80%;
+	margin: 10px auto;
+	font-style: italic;
+	font-size: 110%;
+}
+
+
+
